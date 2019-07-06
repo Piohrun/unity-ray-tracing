@@ -1,0 +1,23 @@
+Base path: 'E:/Unity/2019.3.0a7/Editor/Data', plugins path 'E:/Unity/2019.3.0a7/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracingShader.compute(158): loop only executes for 1 iteration(s), forcing loop to unroll
+  api=4 insize=4385 outsize=2543 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at RayTracingShader.compute(98): StructuredBuffer<struct Sphere> object does not have method 'Dispose'
+  api=4 insize=4435 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at RayTracingShader.compute(169): invalid subscript 'normalized'
+  api=4 insize=4556 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=4 insize=4530 outsize=4003 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4853 outsize=5412 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5032 outsize=5432 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5262 outsize=6770 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5290 outsize=6854 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5381 outsize=4376 ok=1

@@ -1,0 +1,203 @@
+Base path: 'E:/Unity/2019.3.0a7/Editor/Data', plugins path 'E:/Unity/2019.3.0a7/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=4401 outsize=4400 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at RayTracingShader.compute(96): 'IntersectSphere': no matching 0 parameter function
+  error: 2 plat 4 at RayTracingShader.compute(96): syntax error: unexpected token ')'
+  api=4 insize=4400 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=4399 outsize=4398 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracingShader.compute(158): loop only executes for 1 iteration(s), forcing loop to unroll
+  api=4 insize=4398 outsize=2543 ok=1
+Cmd: preprocessCompute
+  insize=4452 outsize=4451 ok=1
+Cmd: preprocessCompute
+  insize=4452 outsize=4451 ok=1
+Cmd: preprocessCompute
+  insize=4452 outsize=4451 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracingShader.compute(158): loop only executes for 1 iteration(s), forcing loop to unroll
+  api=4 insize=4451 outsize=2543 ok=1
+Cmd: preprocessCompute
+  insize=4386 outsize=4385 ok=1
+Cmd: preprocessCompute
+  insize=4386 outsize=4385 ok=1
+Cmd: preprocessCompute
+  insize=4386 outsize=4385 ok=1
+Cmd: preprocessCompute
+  insize=4387 outsize=4386 ok=1
+Cmd: preprocessCompute
+  insize=4405 outsize=4404 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracingShader.compute(158): loop only executes for 1 iteration(s), forcing loop to unroll
+  api=4 insize=4404 outsize=2543 ok=1
+Cmd: preprocessCompute
+  insize=4415 outsize=4414 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracingShader.compute(158): loop only executes for 1 iteration(s), forcing loop to unroll
+  api=4 insize=4414 outsize=2543 ok=1
+Cmd: preprocessCompute
+  insize=4436 outsize=4435 ok=1
+Cmd: preprocessCompute
+  insize=4444 outsize=4443 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at RayTracingShader.compute(98): syntax error: unexpected token '.'
+  api=4 insize=4443 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=4447 outsize=4446 ok=1
+Cmd: preprocessCompute
+  insize=4444 outsize=4443 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at RayTracingShader.compute(99): undeclared identifier 'ComputeBuffer'
+  api=4 insize=4443 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=4446 outsize=4445 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracingShader.compute(160): loop only executes for 1 iteration(s), forcing loop to unroll
+  api=4 insize=4445 outsize=2543 ok=1
+Cmd: preprocessCompute
+  insize=4488 outsize=4487 ok=1
+Cmd: preprocessCompute
+  insize=4488 outsize=4487 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4487 outsize=3971 ok=1
+Cmd: preprocessCompute
+  insize=4494 outsize=4493 ok=1
+Cmd: preprocessCompute
+  insize=4521 outsize=4520 ok=1
+Cmd: preprocessCompute
+  insize=4522 outsize=4521 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at RayTracingShader.compute(96): invalid subscript 'length'
+  api=4 insize=4521 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=4522 outsize=4521 ok=1
+Cmd: preprocessCompute
+  insize=4524 outsize=4523 ok=1
+Cmd: preprocessCompute
+  insize=4522 outsize=4521 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at RayTracingShader.compute(98): syntax error: unexpected token 'for'
+  error: 2 plat 4 at RayTracingShader.compute(98): undeclared identifier 'i'
+  api=4 insize=4521 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=4523 outsize=4522 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracingShader.compute(165): loop only executes for 1 iteration(s), forcing loop to unroll
+  api=4 insize=4522 outsize=2571 ok=1
+Cmd: preprocessCompute
+  insize=4523 outsize=4522 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4522 outsize=3979 ok=1
+Cmd: preprocessCompute
+  insize=4545 outsize=4544 ok=1
+Cmd: preprocessCompute
+  insize=4544 outsize=4543 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4543 outsize=4007 ok=1
+Cmd: preprocessCompute
+  insize=4544 outsize=4543 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4543 outsize=5213 ok=1
+Cmd: preprocessCompute
+  insize=4557 outsize=4556 ok=1
+Cmd: preprocessCompute
+  insize=4544 outsize=4543 ok=1
+Cmd: preprocessCompute
+  insize=4544 outsize=4543 ok=1
+Cmd: preprocessCompute
+  insize=4544 outsize=4543 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4543 outsize=309 ok=1
+Cmd: preprocessCompute
+  insize=4545 outsize=4544 ok=1
+Cmd: preprocessCompute
+  insize=4531 outsize=4530 ok=1
+Cmd: preprocessCompute
+  insize=4854 outsize=4853 ok=1
+Cmd: preprocessCompute
+  insize=4917 outsize=4916 ok=1
+Cmd: preprocessCompute
+  insize=5046 outsize=5045 ok=1
+Cmd: preprocessCompute
+  insize=5048 outsize=5047 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5047 outsize=5432 ok=1
+Cmd: preprocessCompute
+  insize=5004 outsize=5003 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5003 outsize=5432 ok=1
+Cmd: preprocessCompute
+  insize=5009 outsize=5008 ok=1
+Cmd: preprocessCompute
+  insize=5009 outsize=5008 ok=1
+Cmd: preprocessCompute
+  insize=5033 outsize=5032 ok=1
+Cmd: preprocessCompute
+  insize=5055 outsize=5054 ok=1
+Cmd: preprocessCompute
+  insize=5052 outsize=5051 ok=1
+Cmd: preprocessCompute
+  insize=5052 outsize=5051 ok=1
+Cmd: preprocessCompute
+  insize=5055 outsize=5054 ok=1
+Cmd: preprocessCompute
+  insize=5055 outsize=5054 ok=1
+Cmd: preprocessCompute
+  insize=5055 outsize=5054 ok=1
+Cmd: preprocessCompute
+  insize=5135 outsize=5134 ok=1
+Cmd: preprocessCompute
+  insize=5167 outsize=5166 ok=1
+Cmd: preprocessCompute
+  insize=5201 outsize=5200 ok=1
+Cmd: preprocessCompute
+  insize=5263 outsize=5262 ok=1
+Cmd: preprocessCompute
+  insize=5274 outsize=5273 ok=1
+Cmd: preprocessCompute
+  insize=5274 outsize=5273 ok=1
+Cmd: preprocessCompute
+  insize=5285 outsize=5284 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5284 outsize=6798 ok=1
+Cmd: preprocessCompute
+  insize=5263 outsize=5262 ok=1
+Cmd: preprocessCompute
+  insize=5263 outsize=5262 ok=1
+Cmd: preprocessCompute
+  insize=5291 outsize=5290 ok=1
+Cmd: preprocessCompute
+  insize=5291 outsize=5290 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5290 outsize=6854 ok=1
+Cmd: preprocessCompute
+  insize=5348 outsize=5347 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5347 outsize=6882 ok=1
+Cmd: preprocessCompute
+  insize=5402 outsize=5401 ok=1
+Cmd: preprocessCompute
+  insize=5404 outsize=5403 ok=1
+Cmd: preprocessCompute
+  insize=5404 outsize=5403 ok=1
+Cmd: preprocessCompute
+  insize=5404 outsize=5403 ok=1
+Cmd: preprocessCompute
+  insize=5418 outsize=5417 ok=1
+Cmd: preprocessCompute
+  insize=5481 outsize=5480 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5480 outsize=5578 ok=1
+Cmd: preprocessCompute
+  insize=5510 outsize=5509 ok=1
+Cmd: preprocessCompute
+  insize=5404 outsize=5403 ok=1
+Cmd: preprocessCompute
+  insize=5382 outsize=5381 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5381 outsize=4376 ok=1
+Cmd: preprocessCompute
+  insize=5382 outsize=5381 ok=1

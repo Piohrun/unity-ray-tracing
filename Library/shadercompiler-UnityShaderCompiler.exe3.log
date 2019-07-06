@@ -1,0 +1,16 @@
+Base path: 'E:/Unity/2019.3.0a7/Editor/Data', plugins path 'E:/Unity/2019.3.0a7/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracingShader.compute(158): loop only executes for 1 iteration(s), forcing loop to unroll
+  api=4 insize=4385 outsize=2543 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at RayTracingShader.compute(98): syntax error: unexpected token 'for'
+  error: 2 plat 4 at RayTracingShader.compute(98): undeclared identifier 'i'
+  api=4 insize=4521 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at RayTracingShader.compute(96): StructuredBuffer<struct Sphere> object does not have method 'Length'
+  api=4 insize=4523 outsize=0 ok=0
+Cmd: compileComputeKernel
+  api=4 insize=4916 outsize=5412 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5200 outsize=5249 ok=1

@@ -1,0 +1,18 @@
+Base path: 'E:/Unity/2019.3.0a7/Editor/Data', plugins path 'E:/Unity/2019.3.0a7/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracingShader.compute(158): loop only executes for 1 iteration(s), forcing loop to unroll
+  api=4 insize=4451 outsize=2543 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at RayTracingShader.compute(158): loop only executes for 1 iteration(s), forcing loop to unroll
+  api=4 insize=4386 outsize=2543 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4544 outsize=4015 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4544 outsize=4031 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5008 outsize=5436 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5008 outsize=5432 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5403 outsize=5578 ok=1
